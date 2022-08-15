@@ -8,6 +8,6 @@ First, set local path in R to GitHub directory, e.g.: `setwd("~/Documents/GitHub
 
 Calibration procedures can be run from `scripts/main_calibration_SA.r` , `scripts/main_calibration_AFG.r` and `scripts/main_calibration_TKY.r`
 
-These scripts call several data loading scripts (e.g., `R/setup_data.r`, `R/setup_model.r`) and the core code for ordinary differential equations executed in Odin (e.g, `odin_model_vaccination_AFG.r`)
+These scripts call several data loading scripts (e.g., `R/setup_data.r`, `R/setup_model.r`) and the core code for ordinary differential equations produced with Odin package (e.g, `odin_model_vaccination_AFG.r`)
 
-Other post-calibration analysis can be called from the R files in scripts folder, such as `scripts/main_trial_cohort.r` , or plotting results with `scripts/combine_plots_vaccines,r`
+Other post-calibration analysis can be called from the R files in `scripts/` folder, such as `scripts/main_trial_cohort.r` to run simulated trial cohorts, `scripts/plot_model_fits_to_data.r` to produce plots of model fits and some components of manuscript models, `scripts/plot_figs1_map.r` t plot figure 1 of the manuscript, and `scripts/plot_figs2_4.r` to produce and save plots 2 to 4 in the manuscripts.
