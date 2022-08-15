@@ -1,6 +1,6 @@
 ## cchfv-vaccine-trial-multicountry
 
-A repository of code and data used for modelling transmission of CCHFV between livestock and spillover into humans in three endemic areas (Herat in Afghanistan, several provinces in Turkey and South Africa). The code includes routines for calibration, projection, and for analysis of vaccine trials in these settings, as presented in the published reference by Vesga and Metras 2022 et al ([here](https://www.medrxiv.org/content/10.1101/2022.06.09.22276201v1)). *Note: this is a working repository, this means code is likely to change over time*
+A repository of code and data used for modelling transmission of CCHFV between livestock and spillover into humans in three endemic areas (Herat in Afghanistan, several provinces in Turkey and South Africa). The code includes routines for calibration, projection, and for analysis of vaccine trials in these settings, as presented in the pre-print version of the manuscript  by Vesga, et al., 2022  ([here](https://www.medrxiv.org/content/10.1101/2022.06.09.22276201v1)). *Note: this is a working repository, this means code is likely to change over time.*
 
 **Quick start guide**
 
